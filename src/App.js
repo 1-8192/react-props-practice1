@@ -14,7 +14,7 @@ class App extends Component {
 
     return (
       <div>
-        <Header header="I am a header"/>
+        <Header header="The best Music Artist of all time is:"/>
         <FavArtist favArtist = {favArtist}/>
       </div>
       )
